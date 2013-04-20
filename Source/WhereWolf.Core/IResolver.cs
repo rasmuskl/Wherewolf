@@ -2,7 +2,7 @@ using System.Linq;
 using System.Collections.Generic;
 using System;
 
-namespace WhereWolf.Core
+namespace Wherewolf.Core
 {
     public interface IResolver
     {

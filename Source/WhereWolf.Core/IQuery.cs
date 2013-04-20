@@ -1,4 +1,4 @@
-﻿namespace WhereWolf.Core
+﻿namespace Wherewolf.Core
 {
     public interface IQuery<out TReturn>
     {
