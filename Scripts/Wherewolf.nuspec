@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Wherewolf</id>
+    <version>0.0.1</version>
+    <title>Wherewolf</title>
+    <authors>rasmuskl</authors>
+    <owners>rasmuskl</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>http://github.com/rasmuskl/Wherewolf</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Wherewolf is a C# composition-based query system.</description>
+    <copyright>Copyright 2012</copyright>
+    <tags>csharp query composition</tags>
+  </metadata>
+  <files>
+    <file src="..\deploy\**\Wherewolf.dll" target="lib" />
+  </files>
+</package>

@@ -7,8 +7,8 @@
     <ProjectGuid>{458DC3B4-3629-4490-8C81-198095C98D43}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Wherewolf.Core</RootNamespace>
-    <AssemblyName>Wherewolf.Core</AssemblyName>
+    <RootNamespace>Wherewolf</RootNamespace>
+    <AssemblyName>Wherewolf</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wherewolf.Core", "WhereWolf.Core\Wherewolf.Core.csproj", "{458DC3B4-3629-4490-8C81-198095C98D43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wherewolf.Core", "WhereWolf\Wherewolf.csproj", "{458DC3B4-3629-4490-8C81-198095C98D43}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wherewolf.Test", "WhereWolf.Test\Wherewolf.Test.csproj", "{09303054-AB75-4F07-863E-C6C5D83C7CE6}"
 EndProject

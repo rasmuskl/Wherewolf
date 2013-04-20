@@ -1,4 +1,8 @@
-﻿namespace Wherewolf.Core
+﻿using System.Linq;
+using System.Collections.Generic;
+using System;
+
+namespace Wherewolf
 {
     public interface IQuery<out TReturn>
     {

@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Collections.Generic;
 
-namespace Wherewolf.Core
+namespace Wherewolf
 {
     public class QueryExecutor
     {
