@@ -1,0 +1,23 @@
+syntax: glob
+
+Source/*/bin
+Source/*/Bin
+Source/*/obj
+
+Source/*.suo
+Source/*.ReSharper.user
+
+*.csproj.user
+
+Publish
+Artifacts
+Build
+test-reports
+
+_ReSharper*/
+
+App_Data/
+
+*.ncrunchsolution
+*.ncrunchsolution.user
+*.suo
