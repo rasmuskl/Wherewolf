@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Wherewolf
 {
-    public class QueryExecutor
+    public class QueryExecutor : IQueryExecutor
     {
         private readonly IResolver _resolver;
 
