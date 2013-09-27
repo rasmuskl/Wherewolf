@@ -39,7 +39,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TargetDecorators\CacheDecorator.cs" />
+    <Compile Include="TargetDecorators\PerformanceLogDecorator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WhereWolf\Wherewolf.csproj">
+      <Project>{458DC3B4-3629-4490-8C81-198095C98D43}</Project>
+      <Name>Wherewolf</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

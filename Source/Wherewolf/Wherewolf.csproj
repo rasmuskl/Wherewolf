@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IExecutionDecorator.cs" />
     <Compile Include="IQuery.cs" />
     <Compile Include="IQueryExecutor.cs" />
     <Compile Include="IResolver.cs" />
