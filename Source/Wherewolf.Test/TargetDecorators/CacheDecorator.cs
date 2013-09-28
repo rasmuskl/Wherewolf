@@ -15,7 +15,7 @@ namespace WhereWolf.Test.TargetDecorators
 
         public TResult Execute<TResult>(Func<TResult> queryFunc, object query)
         {
-            var cachedQuery = query as ITimeCachedQuery;
+            var cachedQuery = query as ICachedQuery;
 
             if (cachedQuery == null)
             {
@@ -37,7 +37,7 @@ namespace WhereWolf.Test.TargetDecorators
         }
     }
 
-    public interface ITimeCachedQuery
+    public interface ICachedQuery
     {
         string CacheKey { get; }
     }
