@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Wherewolf;
 
-namespace WhereWolf.Test.TargetDecorators
+namespace WhereWolf.Test.DecoratorScenarios
 {
     /// <summary>
     /// Caches query results and serves them dependent on 

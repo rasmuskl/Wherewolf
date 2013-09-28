@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using Wherewolf;
 
-namespace WhereWolf.Test.TargetDecorators
+namespace WhereWolf.Test.DecoratorScenarios
 {
     /// <summary>
     /// Logs the performance of a query and records it's type.

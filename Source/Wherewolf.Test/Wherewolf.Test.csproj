@@ -39,8 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TargetDecorators\CacheDecorator.cs" />
-    <Compile Include="TargetDecorators\PerformanceLogDecorator.cs" />
+    <Compile Include="DecoratorScenarios\CacheDecorator.cs" />
+    <Compile Include="DecoratorScenarios\PerformanceLogDecorator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

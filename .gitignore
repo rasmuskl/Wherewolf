@@ -8,6 +8,7 @@ Source/*.suo
 Source/*.ReSharper.user
 
 *.csproj.user
+packages
 
 Publish
 Artifacts
